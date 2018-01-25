@@ -1,0 +1,26 @@
+{
+  "name": "homework-week12",
+  "version": "1.0.0",
+  "description": "UCI coding bootcamp homework week 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdk82/Homework-week12.git"
+  },
+  "author": "Michael Klingelberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdk82/Homework-week12/issues"
+  },
+  "homepage": "https://github.com/mdk82/Homework-week12#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
+}
